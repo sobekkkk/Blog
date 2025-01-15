@@ -107,7 +107,7 @@ char *fn = "/home/user/permitted";
 ```
 
 ```c
-//here, f is is the result of the user input.
+//here, f is the result of the user input.
 if (strlen(f) == 0)
         {
             fp = fopen(fn, "r");
