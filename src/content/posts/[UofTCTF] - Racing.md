@@ -18,7 +18,7 @@ First of all, let's take a look at the challenge :
 
 Nothing really interesting but they gave us a copy of the binary running on the machine.
 
-When we connect to the machine, we can see a `flag.txt` that we can read. So, we can imagine that the challenge is to exploit the binary to read `flag.txt`.
+When we connect to the machine, we can see a `flag.txt` that we can't read. So, we can imagine that the challenge is to exploit the binary to read `flag.txt`.
 Lets review the code : 
 
 ```c
