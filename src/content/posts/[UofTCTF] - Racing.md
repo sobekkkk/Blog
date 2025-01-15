@@ -1,7 +1,7 @@
 ---
 title: UofTCTF - Racing
 published: 2025-01-14
-description: ''
+description: 'This challenge is a misc chall on my first ctf ever ! '
 image: ''
 tags: [UofTCTF,]
 category: 'misc'
@@ -14,7 +14,7 @@ lang: ''
 
 First of all, let's take a look at the challenge : 
 <br/>
-![test](../../assets/Racing/Pasted%20image.png)
+![](../../assets/Racing/Pasted%20image.png)
 
 Nothing really interesting but they gave us a copy of the binary running on the machine.
 
