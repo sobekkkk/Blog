@@ -67,6 +67,16 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:github',
       url: 'https://github.com/sobekkkk',
     },
+    {
+      name: 'HackTheBox',
+      icon: 'hack-the-box',
+      url: 'https://app.hackthebox.com/users/1669788',
+    },
+    {
+      name: 'Root-me',
+      icon: 'root-me',
+      url: 'https://www.root-me.org/sobek-839367?'
+    }
   ],
 }
 

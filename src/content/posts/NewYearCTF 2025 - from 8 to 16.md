@@ -1,7 +1,7 @@
 ---
 title: NewYearCTF 2025 - from 8 to 16
 published: 2025-01-15
-description: ''
+description: 'This is the first "reverse engineering" challenge of the NewYear 2025 CTF'
 image: ''
 tags: [NewYearCTF2025]
 category: 'Reverse'
@@ -11,7 +11,7 @@ lang: ''
 
 
 # Intro
-This is the "reverse engineering" challenge of the NewYear 2025 CTF. I put "reverse engineering" in quotes because they categorized it under this category, but I think it’s more of a programming challenge than anything else.
+This is the first "reverse engineering" challenge of the NewYear 2025 CTF. I put "reverse engineering" in quotes because they categorized it under this category, but I think it’s more of a programming challenge than anything else.
 
 In this challenge, they provided us with a Python program and an encrypted file, which has been encrypted using the Python file:
 

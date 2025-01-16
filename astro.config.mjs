@@ -45,7 +45,9 @@ export default defineConfig({
       globalInstance: true,
     }),
     icon({
+      iconDir:"src/assets/icons",
       include: {
+        mdi: ["*"],
         "preprocess: vitePreprocess(),": ["*"],
         "fa6-brands": ["*"],
         "fa6-regular": ["*"],
