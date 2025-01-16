@@ -43,6 +43,9 @@ Easy, right? Seriously, the first time I saw this program, I thought "Yes, an ea
 
 After 3 minutes of staring at this beautiful one-liner, I was totally lost, lol. So, I started by "deconstructing" the code like this:
 
+It's not exactly the same as the first code but principle is the same.
+
+
 ```python
 def rev001(flag):
     result = []
@@ -144,7 +147,6 @@ for example if the fist code make an ASCII encode, i have to perform an ASCII de
 
 this method gave me this code : 
 
-It's not exactly the same as the first code but principle is the same.
 
 ```python 
 
